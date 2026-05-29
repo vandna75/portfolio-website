@@ -136,8 +136,9 @@ function Resume() {
                 <div className="btn-box btns">
 
                     <a
-                        href="/Vandna_Resume.pdf"
-                        download
+                        href="/Vandna-Kumari.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="btn"
                     >
                         Download CV
