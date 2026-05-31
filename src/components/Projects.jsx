@@ -62,11 +62,9 @@ function Projects() {
                     <li>
                         Experience
                         <span>
-                            <br />
                             Fresher
                         </span>
                     </li>
-
                 </ul>
 
 
@@ -76,11 +74,9 @@ function Projects() {
                     <li>
                         Projects
                         <span>
-                            <br />
                             2
                         </span>
                     </li>
-
                 </ul>
 
 
@@ -90,11 +86,9 @@ function Projects() {
                     <li>
                         Certifications
                         <span>
-                            <br />
                             12
                         </span>
                     </li>
-
                 </ul>
 
             </div>

@@ -609,6 +609,14 @@ span{
     justify-content: space-between;
 }
 
+.box-3 li{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 .box-3 .line1  {
   position: relative;
