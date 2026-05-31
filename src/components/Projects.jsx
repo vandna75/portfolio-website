@@ -88,10 +88,10 @@ function Projects() {
                 <ul className="line3">
 
                     <li>
-                        Certificate
+                        Certifications
                         <span>
                             <br />
-                            3
+                            12
                         </span>
                     </li>
 
